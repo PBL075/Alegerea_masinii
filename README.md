@@ -2,7 +2,7 @@ Alegerea_masinii
 Un program simplu în C# care demonstrează utilizarea instrucțiunii switch case pentru selectarea unui model de mașină dintr-o listă.
 
 Ce face programul:
-Afișează o listă de mărci auto disponibile (ex: BMW, Audi, Mercedes).
+Afișează o listă de mărci auto disponibile.
 
 Cere utilizatorului să introducă o opțiune.
 

@@ -1,3 +1,4 @@
+Alegerea_masinii
 Un program simplu în C# care demonstrează utilizarea instrucțiunii switch case pentru selectarea unui model de mașină dintr-o listă.
 
 Ce face programul:

@@ -1,0 +1,49 @@
+# Visual Studio
+.vs/ 
+*.user
+*.suo
+*.userprefs
+
+# Build Results
+[Dd]ebug/ 
+[Rr]elease/ 
+[Bb]in/ 
+[Oo]bj/
+
+# Visual Studio Code
+.vscode/ 
+.history/
+
+# Rider
+.idea/ 
+
+# User-specific files
+appsettings.Development.json
+
+# Windows image file caches
+Thumbs.db
+Desktop.ini
+
+# ReSharper
+*_ReSharper*.*
+*_ReSharper.*
+ReSharper*/
+*.DotSettings
+*.DotSettings.user
+
+# Rider project files
+.idea/
+*.sln.iml
+
+# Backup & report files from converting an old project
+Backup*/ 
+*.bak
+*.swp
+*.tmp
+*.temp
+
+# Visual Studio Code workspace files
+*.code-workspace
+
+# DotNet
+*.dotnet/
